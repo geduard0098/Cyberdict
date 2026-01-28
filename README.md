@@ -30,7 +30,7 @@ cd cyberdict
 ```
 2. No additional installation steps are required.
 
-# Executing program
+# ✨Executing program
 
 To start Cyberdict, run the script directly with Python:
 ```bash
