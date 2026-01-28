@@ -1,13 +1,15 @@
 <div align="center">
-# Cyberdict
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/363537f0-5e6f-4b6b-bda9-1130d60f8bb7" />
+<h1> Cyberdict </h1>
 
-A terminal-based cybersecurity dictionary with an interactive text user interface (TUI) for fast term lookup and exploration.
+
+ <p><i>A terminal-based cybersecurity dictionary with an interactive text user interface (TUI) for fast term lookup and exploration.</p></i>
 </div>
 
-# Description
-Cyberdict is a Python-powered cybersecurity dictionary designed to run entirely in the terminal using a responsive text user interface (TUI). It allows users to search and explore cybersecurity terms with live autocomplete suggestions, keyboard navigation, and instant term definitions. Built using Python’s standard curses library, Cyberdict requires no external dependencies and runs efficiently on Unix-like systems. The project focuses on speed, usability, and portability, making it ideal for students, security professionals, and anyone learning cybersecurity concepts directly from the command line.
+# ✨Description
+Cyberdict is a Python-powered cybersecurity dictionary designed to run entirely in the terminal using a responsive text user interface (TUI). It allows users to search and explore cybersecurity terms with live autocomplete suggestions, keyboard navigation, and instant term definitions. Built using Python’s standard ```curses``` library, Cyberdict requires no external dependencies and runs efficiently on Unix-like systems. The project focuses on speed, usability, and portability, making it ideal for students, security professionals, and anyone learning cybersecurity concepts directly from the command line.
 
-# Getting Started
+# ✨Getting Started
 
 ## Dependencies
 
@@ -15,7 +17,7 @@ Cyberdict is a Python-powered cybersecurity dictionary designed to run entirely 
 
 - Unix-like operating system (Linux, macOS, WSL)
 
-- Terminal with curses support
+- Terminal with ```curses``` support
 
 - No external Python libraries are required. Cyberdict relies entirely on the Python standard library.
 
@@ -23,7 +25,7 @@ Cyberdict is a Python-powered cybersecurity dictionary designed to run entirely 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/cyberdict.git
+git clone https://github.com/geduard0098/cyberdict.git
 cd cyberdict
 ```
 2. No additional installation steps are required.
@@ -48,11 +50,11 @@ Start typing to search for terms with live autocomplete suggestions.
 
 - Press q or Ctrl-C to quit the application.
 
-# Help
+# ✨Help
 
 If you experience issues:
 
-1. Ensure you are running on a Unix-like system with curses support.
+1. Ensure you are running on a Unix-like system with ```curses``` support.
 
 2. Confirm your Python version:
 ```bash
@@ -64,11 +66,11 @@ python3 --version
 
 - Avoid running inside terminals that do not fully support curses (some minimal IDE terminals).
 
-# Authors
+# ✨Authors
 
 GitHub: @geduard0098
 
-# Version History
+# ✨Version History
 
 0.2
 
@@ -80,17 +82,17 @@ Improved performance and usability
 
 Initial Release
 
-# License
+# ✨License
 
 This project is licensed under the MIT License — see the LICENSE.md file for details.
 
-# Acknowledgments:
+# ✨Acknowledgments:
 
 - Built with assistance from ChatGPT and Gemini
 
 - Inspired by classic terminal-based tools and Unix philosophy
 
-- Python curses documentation and examples
+- Python ```curses``` documentation and examples
 
 - Cybersecurity learning communities (Hack The Box)
 
